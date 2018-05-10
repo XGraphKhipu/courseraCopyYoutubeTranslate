@@ -1,16 +1,16 @@
+Copy "any" course from coursera website, translate it using the transcription of the videos to some language and upload it to your youtube channel, finally, publish a tweet with the youtube link.
 
-Download coursera course 'X' with subtitles in Spanish, publising new videos with spanish subtitles speaking joined in the new video.
+**Pre-requisites:**
 
-Pre-requisites:
-
+```
 youtube-upload
-
 twitter API for python
-
 text2wave
-
 phantomjs
+```
 
-Edit credentials from the files: 
-  tweet.py and courseraUploadSpeak.sh
-
+**Edit credentials from the files:**
+```  
+tweet.py
+courseraUploadSpeak.sh
+```
