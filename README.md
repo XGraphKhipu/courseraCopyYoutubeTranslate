@@ -4,9 +4,13 @@ Download coursera course 'X' with subtitles in Spanish, publising new videos wit
 Pre-requisites:
 
 youtube-upload
+
 twitter API for python
+
 text2wave
+
 phantomjs
 
-Edit credentials from the file: tweet.py and courseraUploadSpeak.sh
+Edit credentials from the files: 
+  tweet.py and courseraUploadSpeak.sh
 
