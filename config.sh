@@ -1,0 +1,2 @@
+cookie="cookie: __204u=512237422; __204r=https%3A%2F%2Fl.facebook.com%2F; CSRF3-Token=14902324.ePz7kr4CtFHeS; CAUTH=iDAvcdtQPxvaaR5y-HRKcsnJc06WWWrxEUvb10L0uAywQt84SYKoPrjRENMdo0S_OEQ.5-uCInaJfYWwhb2qq4my_g.YNGz7PJxFQdU7tyAcjaZtB8-2kaiI104jXrapkn0nuTyXIT0SeCLr20zPe1B0HA3B0mvyNoU37mUv7XoNVncj_Ea75aG3GSaesE5IdNvQQQiiAOhMck-Z2Uk_0sQ1WOw6m30mMY6Ws_kc2yI5mhNMfpwjipV_IZv-UMmNm_KJ8zCWQjLhdTgMjAxqC_LEo5u; maestro_login_flag=2; ip_origin=PE; ip_currency=USD; __400v=85; _ga=GA1.287.1499089; __400vt=8958168"
+client_file_youtube="/home/myuser/client_robot.json";
